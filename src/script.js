@@ -11,6 +11,8 @@
 // @match https://www.imdb.com/*/title/*
 // @match https://www.rottentomatoes.com/m/*
 // @match https://www.goodreads.com/book/*
+// @match https://myanimelist.net/anime/*
+// @match https://myanimelist.net/manga/*
 // @match https://backloggd.com/games/*
 // @match https://ggapp.io/games/*
 // @match https://store.steampowered.com/app/*
@@ -67,6 +69,12 @@
     // For AniList
   
     // For MyAnimeList
+    if (website_host === "myanimelist.net") {
+        const myanimelist_parent = document.getElementsByClassName("stats-block")[0];
+        if (myanimelist_parent) {
+            myanimelist_parent.removeChild(myanimelist_parent.children[0])
+        }
+    }
   
     // For Backloggd
     if (website_host === "backloggd.com") {
