@@ -3,7 +3,7 @@
 Userscript to hide the ratings on various websites. The idea behind it is so that you don't get
 influenced by what people think about the work you want to watch, read, etc. Websites of different
 kinds are taken into account. Shipped in an userscript for easy and fast activation and supported
-by the most popular userscript managers.
+by the most popular userscript managers (making it easy to use no matter the browser).
 
 ## Websites
 
