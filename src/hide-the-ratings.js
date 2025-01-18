@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name HideTheRatings
 // @version 1.0.0
-// @description Userscript to hide the ratings from many websites.
+// @description Userscript to hide the ratings on various websites.
 // @downloadURL https://github.com/JoseDeFreitas/hide-the-ratings/releases
 // @supportURL https://github.com/JoseDeFreitas/hide-the-ratings/issues/new
 // @homepageURL https://github.com/JoseDeFreitas/hide-the-ratings
