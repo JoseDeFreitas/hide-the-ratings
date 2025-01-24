@@ -6,6 +6,12 @@ read information about that work. Websites of different kinds are taken into acc
 in an userscript for easy and fast activation and supported by the most popular userscript managers
 (making it easy to use no matter the browser).
 
+## Installation
+
+The fastest way is to copy the content of the file [hide-the-ratings.js](https://github.com/JoseDeFreitas/hide-the-ratings/blob/main/hide-the-ratings.js)
+and paste it in a new script in your userscript manager. In [Violentmonkey](https://violentmonkey.github.io),
+go to the Settings, click on the "+" button "New", then "New" again, paste the code, and save it.
+
 ## Websites
 
 ### Movies
