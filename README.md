@@ -1,9 +1,10 @@
 # Hide the Ratings
 
 Userscript to hide the ratings on various websites. The idea behind it is so that you don't get
-influenced by what people think about the work you want to watch, read, etc. Websites of different
-kinds are taken into account. Shipped in an userscript for easy and fast activation and supported
-by the most popular userscript managers (making it easy to use no matter the browser).
+influenced by what people think about the work you want to watch, read, etc., while wanting to
+read information about that work. Websites of different kinds are taken into account. Shipped
+in an userscript for easy and fast activation and supported by the most popular userscript managers
+(making it easy to use no matter the browser).
 
 ## Websites
 
@@ -62,5 +63,5 @@ request. Read the "Notes" section below for more information about the websites.
 The websites covered by this userscript are websites more considered like social media (commonly
 known as "tracking websites"). They often feature the user creating an account, lists, following
 other people, earning badges, etc. Because of this, websites like Metacritic, which main focus
-is ratings are reviews, are not covered by this userscript (since people don't ofter go to these
-kind of websites to look for more information or to add them to their lists).
+is ratings are reviews, are not covered by this userscript (since people don't go to these kind
+of websites to look for more information or to add them to their lists).
