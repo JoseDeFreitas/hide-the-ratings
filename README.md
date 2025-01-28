@@ -26,23 +26,20 @@ go to the Settings, click on the "+" button "New", then "New" again, paste the c
 
 | Website | Notes |
 |---------|-------|
-|         |       |
-|         |       |
-|         |       |
+| serializd.com |       |
 
 ### Anime
 
 | Website | Notes |
 |---------|-------|
 | myanimelist.net |       |
+| anilist.co |       |
 
 ### Music
 
 | Website | Notes |
 |---------|-------|
-|         |       |
-|         |       |
-|         |       |
+| musicboard.app |       |
 
 ### Videogames
 
