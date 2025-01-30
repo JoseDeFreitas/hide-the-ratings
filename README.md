@@ -18,7 +18,7 @@ go to the Settings, click on the "+" button "New", then "New" again, paste the c
 
 | Website | Notes |
 |---------|-------|
-| letterboxd.com |       |
+| letterboxd.com | For now, the script can't reach the velocity of the loading, so it just waits 1 second before deleting, which may cause the rating to still appear, especially if another tab is focused. |
 | imdb.com |       |
 | rottentomatoes.com |       |
 
@@ -53,7 +53,7 @@ go to the Settings, click on the "+" button "New", then "New" again, paste the c
 
 | Website | Notes |
 |---------|-------|
-| goodreads.com |       |
+| goodreads.com | It seems to break the layout, but only sometimes, and depends on whether the user rated the book or not. |
 
 ## Contributing
 
